@@ -93,7 +93,7 @@ email = "ashan.wanasinghe@gmail.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Mechanical Engineering", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "Department of Mechanical Engineering", city = "Katubedda", region = "Moratuwa", postcode = "10400", country = "Sri Lanka", country_code = "LK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,7 +104,7 @@ address = {street = "Department of Mechanical Engineering", city = "Stanford", r
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday to Friday 10:00 to 19:00", "Wednesday 09:00 to 10:00"]
+office_hours = ["Monday to Friday 10:00 to 19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"
