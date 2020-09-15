@@ -64,4 +64,6 @@ user_groups:
 - Visitors
 ---
 
-Ashan Wanasinghe is a research student at the Computational Sensing and Smart Machines Laboratory at the University of Moratuwa. His research interests include Soft robotics, Wearable robots and Bionics. He is currently part of the Soft robotics research group at the laboratory, which develops lamming jamming and other pneumatic actuators.
+Ashan Wanasinghe is a research student at the Computational Sensing and Smart Machines Laboratory at the University of Moratuwa. 
+
+His research interests include Soft robotics, Wearable robots and Bionics. He is currently part of the Soft robotics research group at the laboratory, which develops lamming jamming and other pneumatic actuators.
