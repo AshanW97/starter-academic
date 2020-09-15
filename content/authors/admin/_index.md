@@ -15,7 +15,7 @@ role: Researcher in Soft Robotics
 # Organizations/Affiliations
 organizations:
 - name: University of Moratuwa
-  url: 'uom.lk'
+  url: 'https://uom.lk/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Soft wearable robots, Bionics and Mechanical Engineering.
