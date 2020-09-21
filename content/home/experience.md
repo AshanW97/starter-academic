@@ -17,6 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
   title = "Visiting Instructor"
   company = "Department of Mechanical Engineering, University of Moratuwa"
@@ -26,11 +27,12 @@ date_format = "Jan 2006"
   date_end = "https://uom.lk/mech"
   description = "Conducting lab sessions for Mechanical engineering undergraduates"
   Responsibilities include:
-  """
+ 
   * Conducting Lab Sessions
   * Practical Sessions for Industrial Automation
   * Practical Sessions for Mechanics of Machines I
   """
+
 [[experience]]
   title = "Research Student"
   company = "University of Moratuwa"
@@ -40,7 +42,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = "Conducting research related to soft robotics"
   Responsibilities include:
-  """
+ 
   * Design and Analysis
   * Experimentation
   * Research
@@ -55,7 +57,7 @@ date_format = "Jan 2006"
   date_end = "2018-12-07"
   description = """
   Responsibilities include:
-  """
+  
   * System Automation
   * CAD/CAM
   * Research
