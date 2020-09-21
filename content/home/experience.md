@@ -18,6 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Visiting Instructor"
+  company = "Department of Mechanical Engineering, University of Moratuwa"
+  company_url = ""
+  location = "Moratuwa, Sri Lanka"
+  date_start = "2018-09-07"
+  date_end = ""
+  description = "Conducting lab sessions for Mechanical engineering undergraduates"
+  Responsibilities include:
+  
+  * Conducting Lab Sessions
+  * Practical Sessions for Industrial Automation
+  * Practical Sessions for Mechanics of Machines I
+
+[[experience]]
+  title = "Research Student"
+  company = "University of Moratuwa"
+  company_url = ""
+  location = "Department of Mechanical Engineering, Moratuwa, Sri Lanka"
+  date_start = "2018-02-01"
+  date_end = ""
+  description = "Conducting research related to soft robotics"
+  Responsibilities include:
+ 
+  * Design and Analysis
+  * Experimentation
+  * Research
+  """
+
+[[experience]]
   title = "Automation Intern"
   company = "MAS-Kreeda"
   company_url = ""
@@ -27,18 +56,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
-
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  * System Automation
+  * CAD/CAM
+  * Research
 
 +++
